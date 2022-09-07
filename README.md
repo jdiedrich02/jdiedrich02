@@ -2,6 +2,7 @@
 Nice to meet you! I am Jake Diedrich and here's a little about me:
 
 - 🏫 I am a Carleton University student studying Computer Science.
+- 💻 Huge into Web Development and Game Development
 - 🌱 I’m currently learning Rust, Discord.js
 - 💻 Languages and Frameworks: JavaScript, C/C++, Python, Java, Node.js, Express.js
 
