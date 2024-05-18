@@ -33,6 +33,7 @@
 
 ### 📝 Databases
 <a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+<a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 
 ### 🛠️ Tools
 <a href="https://www.atlassian.com/software/jira"><img alt="JIRA/Confluence" src="https://img.shields.io/badge/Jira/Confluence-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
