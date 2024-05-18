@@ -5,9 +5,7 @@
 </h1>
 
 <p align="center">
-	<a href="https://github.com/jdiedrich02">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Astronomer&center=true&width=380&height=45">
-	</a>
+  <a href="https://github.com/jdiedrich02"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Astronomer&center=true&width=380&height=45"></a>
 </p>
 
 🏫 I am a Carleton University student studying Computer Science.
