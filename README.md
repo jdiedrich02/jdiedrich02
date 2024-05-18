@@ -34,7 +34,7 @@
 <a href="https://learn.microsoft.com/en-us/ef/"><img alt=".Entity Framework" src="https://img.shields.io/badge/Entity Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
 
 ### 📝 Databases
-<a href="https://www.python.org/"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+<a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
 
 ### 🛠️ Tools
 <a href="https://www.atlassian.com/software/jira"><img alt="JIRA/Confluence" src="https://img.shields.io/badge/Jira/Confluence-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
