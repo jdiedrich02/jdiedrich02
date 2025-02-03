@@ -12,7 +12,7 @@
 
 💻 Strong interest in Full-Stack Web Development
 
-👩‍💻 Main Languages/Frameworks: Angular, JavaScript/TypeScript, .NET Core
+👩‍💻 Main Languages/Frameworks: Angular, JavaScript/TypeScript, ASP.NET Core
 
 ## 💻 Languages, Frameworks, & My Favourite Tools:
 
