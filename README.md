@@ -5,12 +5,12 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/jdiedrich02"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Astronomer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/jdiedrich02"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Front-End/Full+Stack+Web+Developer;Astronomer&center=true&width=380&height=45"></a>
 </p>
 
-🏫 I am a Carleton University student studying Computer Science.
+💻 Front-End/Full-Stack Web Developer
 
-💻 Strong interest in Full-Stack Web Development
+🏫 Computer Science Alumni @ Carleton University
 
 👩‍💻 Main Languages/Frameworks: Angular, JavaScript/TypeScript, ASP.NET Core
 
@@ -50,7 +50,6 @@
 <p align="center">
   <a href="mailto:jake.diedrich@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/jake-diedrich/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://jakediedrich.tech"><img src="https://img.shields.io/badge/Personal Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ## ⚡ Other Info About Me
