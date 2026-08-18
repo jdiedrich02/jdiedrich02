@@ -43,8 +43,6 @@
 <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=linux"></a>
 <a href="https://azure.microsoft.com/en-ca/products/devops"><img alt="DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdiedrich02&langs_count=8" alt="jdiedrich02">
-
 
 ## 🤝 Let's Connect!
 <p align="center">
